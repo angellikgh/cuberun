@@ -17,7 +17,6 @@ The development process will be detailed on my [website](https://adamkarlsten.co
 ## Screenshots
 
 ![](./public/regular.PNG)
-![](./public/tunnelred.PNG)
 
 ## Controls
 
